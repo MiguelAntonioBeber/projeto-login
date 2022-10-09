@@ -7,6 +7,7 @@
     } /*body*/
     section#login { /*login*/
         width: 80vw;
+        height: 280px;
     } /*login*/
 
     section#login > div#imagem { /*imagem*/
@@ -29,6 +30,7 @@
 
     section#login { /*login*/
         width: 950px;
+        height: 350px;
     } /*login*/
 
     section#login > div#imagem { /*imagem*/
@@ -47,7 +49,8 @@
     } /*formulario h1*/
 
     div#formulario > p { /*paragrafo formulario*/
-        font-size: 1.2em;
+        font-size: 1em;
+        margin: 20px 0px;
     } /*paragrafo formulario*/
 
 } /*telas grandes*/
